@@ -1,7 +1,7 @@
 library(shiny)
 library(lessR)
 
-d <- Read("data/employee.xlsx", quiet=TRUE)
+d <- Read("https://github.com/dgerbing/data/raw/master/employee.csv", quiet=TRUE)
 
 server <- function(input, output) {
 
