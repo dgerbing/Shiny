@@ -1,6 +1,6 @@
 # Shiny
 
-The R package __lessR__ has three visualization functions that provide a wide variety of data visualizations: `BarChart()`, `Histogram()`, and `Plot()`. Here a Shiny interactive R visualization is provided for each of these functions that illustrate some, but not all, of each function's parameters. 
+The R package __lessR__ has three visualization functions that provide a wide variety of data visualizations: `BarChart()`, `Histogram()`, and `Plot()`. Here find a Shiny interactive R visualization for each of these functions that illustrate some, but not all, of each function's parameters. 
 
 To access, click the prominent green Code button, then select the Download ZIP option. In your Downloads folder will be a zipped folder called Shiny-main. Extract three folders: BarChart, Histogram, and Plot. Inside each of those folders are two R files, `server.R` and `ui.R`.
 
