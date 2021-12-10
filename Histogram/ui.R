@@ -10,12 +10,12 @@ ui <- fluidPage(  # Define UI for app that draws a histogram
 
       sliderInput(inputId = "myWidth",  # Input: Slider for the number of bins
                   label = "bin_width:",
-                  min = 1000, max = 20000, value = 8000
+                  min = 1000, max = 20000, value = 10000
       ),
       
       sliderInput(inputId = "myStart",
                   label = "bin_start",
-                  min = 25000, max = 31000, value = 30000
+                  min = 25000, max = 31000, value = 28000
       ),
       
       selectInput(inputId = "myFill",
